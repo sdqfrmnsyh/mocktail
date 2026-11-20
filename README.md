@@ -90,7 +90,7 @@ sudo apt install mocktail-nightly
 
 Direct AppImage, DEB, and RPM downloads are available from the
 [Website](https://mocktail.bigrat.space/) and
-[GitHub Releases](https://github.com/komaruworld/mocktail/releases).
+[GitHub Releases](https://github.com/sdqfrmnsyh/mocktail/releases).
 
 <details>
 <summary>Screenshots</summary>
